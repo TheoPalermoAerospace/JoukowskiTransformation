@@ -1,6 +1,6 @@
-__|--------------------------------------------------------|__ **(\**)
-__|BREVES OBSERVAÇÕES ACERCA DA TRANSFORMAÇÃO DE JOUKOWSKI:|__ **(\**)
-__|--------------------------------------------------------|__ **(\**)
+__|--------------------------------------------------------|__ \\
+__|BREVES OBSERVAÇÕES ACERCA DA TRANSFORMAÇÃO DE JOUKOWSKI:|__ \\
+__|--------------------------------------------------------|__ \\
 
 _O círculo fixo é o de cor vermelha, enquanto o círculo deslocado é o de cor azul._
 
